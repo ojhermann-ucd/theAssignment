@@ -1,0 +1,5 @@
+http://claritytrec.ucd.ie/~alawlor/comp30670/input_assign3.txt
+http://claritytrec.ucd.ie/~alawlor/comp30670/input_assign3_a_v2.txt
+http://claritytrec.ucd.ie/~alawlor/comp30670/input_assign3_b_v2.txt
+http://claritytrec.ucd.ie/~alawlor/comp30670/input_assign3_c.txt
+http://claritytrec.ucd.ie/~alawlor/comp30670/input_assign3_d.txt
